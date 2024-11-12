@@ -1,2 +1,2 @@
 # .github
-OC NATIVE AI
+Oracle OC NATIVE AI Repo 
